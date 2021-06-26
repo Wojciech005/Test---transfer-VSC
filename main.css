@@ -24,7 +24,7 @@ div {
     text-align: center;
 }
 
-h1 {
+h1, h2 {
     color: white;
     padding: 15px;
     font-size: 40px;
